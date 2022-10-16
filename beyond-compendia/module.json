@@ -1,0 +1,165 @@
+{
+    "id": "beyond-compendia",
+    "title": "DnD Beyond Compendia",
+    "description": "Creates a Compendia to Store DnD Beyond Importer Data",
+    "authors": [
+      {
+        "name": "Brandon Bates"
+      }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "10"
+    },
+    "packs": [
+      {
+        "name": "actors",
+        "system": "dnd5e",
+        "label": "Actors",
+        "path": "./packs/actors.db",
+        "module": "beyond-compendia",
+        "type": "Actor"
+      },
+      {
+        "name": "monsters",
+        "system": "dnd5e",
+        "label": "Monsters",
+        "path": "./packs/monsters.db",
+        "module": "beyond-compendia",
+        "type": "Actor"
+      },
+      {
+        "name": "items",
+        "system": "dnd5e",
+        "label": "Items",
+        "path": "./packs/items.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "spells",
+        "system": "dnd5e",
+        "label": "Spells",
+        "path": "./packs/spells.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "classes",
+        "system": "dnd5e",
+        "label": "Classes",
+        "path": "./packs/classes.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "subclasses",
+        "system": "dnd5e",
+        "label": "Subclasses",
+        "path": "./packs/subclasses.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "classfeatures",
+        "system": "dnd5e",
+        "label": "Class Features",
+        "path": "./packs/classfeatures.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "feats",
+        "system": "dnd5e",
+        "label": "Feats",
+        "path": "./packs/feats.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "backgrounds",
+        "system": "dnd5e",
+        "label": "Backgrounds",
+        "path": "./packs/backgrounds.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "vehicles",
+        "system": "dnd5e",
+        "label": "Vehicles",
+        "path": "./packs/vehicles.db",
+        "module": "beyond-compendia",
+        "type": "Actor"
+      },
+      {
+        "name": "races",
+        "system": "dnd5e",
+        "label": "Races",
+        "path": "./packs/races.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "racialtraits",
+        "system": "dnd5e",
+        "label": "Racial Traits",
+        "path": "./packs/racialtraits.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "scenes",
+        "system": "dnd5e",
+        "label": "Scenes",
+        "path": "./packs/scenes.db",
+        "module": "beyond-compendia",
+        "type": "Scene"
+      },
+      {
+        "name": "JournalEntries",
+        "system": "dnd5e",
+        "label": "Journal Entries",
+        "path": "./packs/journalentry.db",
+        "module": "beyond-compendia",
+        "type": "JournalEntry"
+      },
+      {
+        "name": "macros",
+        "system": "dnd5e",
+        "label": "Macros",
+        "path": "./packs/macro.db",
+        "module": "beyond-compendia",
+        "type": "Macro"
+      },
+      {
+        "name": "tables",
+        "system": "dnd5e",
+        "label": "Tables",
+        "path": "./packs/tables.db",
+        "module": "beyond-compendia",
+        "type": "RollTable"
+      },
+      {
+        "name": "override",
+        "system": "dnd5e",
+        "label": "Override",
+        "path": "./packs/override.db",
+        "module": "beyond-compendia",
+        "type": "Item"
+      },
+      {
+        "name": "playlist",
+        "system": "dnd5e",
+        "label": "Playlist",
+        "path": "./packs/playlist.db",
+        "module": "beyond-compendia",
+        "type": "Playlist"
+      }
+    ],
+    "download": "https://github.com/b-rand/beyond-compendia/archive/v0.0.1.zip",
+    "manifest": "https://github.com/b-rand/beyond-compendia/releases/latest/download/module.json",
+    "url": "https://github.com/b-rand/beyond-compendia"
+  }
+  
