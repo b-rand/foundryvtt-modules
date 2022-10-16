@@ -159,7 +159,7 @@
       }
     ],
     "download": "https://github.com/b-rand/foundryvtt-modules/archive/refs/tags/0.0.1.zip",
-    "manifest": "https://github.com/b-rand/foundryvtt-modules/beyond-compendia/releases/latest/download/beyond-compendia/module.json",
+    "manifest": "https://github.com/b-rand/foundryvtt-modules/releases/latest/download/module.json",
     "url": "https://github.com/b-rand/foundryvtt-modules/beyond-compendia"
   }
   
