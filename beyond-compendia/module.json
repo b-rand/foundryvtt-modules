@@ -158,8 +158,8 @@
         "type": "Playlist"
       }
     ],
-    "download": "https://github.com/b-rand/beyond-compendia/archive/v0.0.1.zip",
-    "manifest": "https://github.com/b-rand/beyond-compendia/releases/latest/download/module.json",
-    "url": "https://github.com/b-rand/beyond-compendia"
+    "download": "https://github.com/b-rand/foundryvtt-modules/archive/refs/tags/0.0.1.zip",
+    "manifest": "https://github.com/b-rand/foundryvtt-modules/beyond-compendia/releases/latest/download/module.json",
+    "url": "https://github.com/foundryvtt-modules/b-rand/beyond-compendia"
   }
   
